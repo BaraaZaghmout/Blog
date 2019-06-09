@@ -6,7 +6,7 @@ description: My personal journey in data science.
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://BaraaZaghmout.github.io" # the base hostname & protocol for your site
 author: "Baraa Zaghmout"
-street_address: "Bremerstrasse 23"
+street_address: 
 city: "Kiel"
 state: "Schleswig Holstein"
 zip_code: 24118
