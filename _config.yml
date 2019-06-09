@@ -11,7 +11,7 @@ city: Kiel
 state: Schleswig Holstein
 zip_code: 24118
 country: Germany
-phone: (+49) 157-57294843
+phone: (+49) 157 57294843
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
