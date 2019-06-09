@@ -3,7 +3,7 @@ title: My journey with Data
 subtitle: by Baraa Zaghmout
 email: b.zaghmout@outlook.com
 description: My personal journey in data science.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/Blog/" # the subpath of your site, e.g. /blog
 url: "https://BaraaZaghmout.github.io" # the base hostname & protocol for your site
 #author: Baraa Zaghmout
 #street_address: 1234 Somewhere Road
